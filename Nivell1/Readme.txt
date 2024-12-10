@@ -3,7 +3,7 @@ fent ús de Media Queries. Tecologies utilitzades: HTML5, CSS3, media queries pe
 
 Requisits: navegador modern compatible amb HTML5/CSS3. 
 
-Instal.lació: clonar el repositori https://github.com/CristinaSoy/1.1-Maquetacio-HTML-i-CSS-Tots-els-nivells.git 
+Instal.lació: clonar el repositori https://github.com/CristinaSoy/1.1.Maquetacio.git 
 i obrir ex-maquetacio-nivell1.html al navegador 
 
 Execució: disseny escriptori:>1024px, tauleta: 768px-1024px, mòbil:<768px 
